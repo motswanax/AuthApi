@@ -10,7 +10,7 @@ namespace SecuringWebApiUsingApiKey.Controllers
 
     [ApiController]
     [Route("[controller]")]
-    [ApiKey]
+    //[ApiKey]
     public class WeatherForecastController : ControllerBase
     {
         private static readonly string[] Summaries = new[]
