@@ -1,6 +1,6 @@
 using System;
 
-namespace AuthApi
+namespace SecuringWebApiUsingApiKey
 {
     public class WeatherForecast
     {
